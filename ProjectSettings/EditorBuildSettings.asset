@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Introduction/Intro.unity
+    guid: 35d8707b24d234847a75ac1cce677c45
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 621f5944615553f4188decfcbf0222c9
+  - enabled: 1
+    path: Assets/Scenes/AI_Scenarios/G1_Learning_Belizean_History_with_AI/G1_Main.unity
+    guid: 5cef9359c5e2df744ae935526d15f656
+  - enabled: 1
+    path: Assets/Scenes/AI_Scenarios/G2_Learning_New_Concept_with_AI/G2_Main.unity
+    guid: 69ac3d7b9df030c459bf7e062e8b4f3f
+  - enabled: 1
+    path: Assets/Scenes/AI_Scenarios/B1_AI_Suggestions_Cultural_Diminish/B1_Main.unity
+    guid: 2011aeb27279aaa45ad3fa91ae52f9cd
+  - enabled: 1
+    path: Assets/Scenes/AI_Scenarios/B2_AI_Essay_Cultural_Bias/B2_Main.unity
+    guid: 566aed91217820a4880920ff312136d8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
