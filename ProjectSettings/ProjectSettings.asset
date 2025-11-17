@@ -316,7 +316,11 @@ PlayerSettings:
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   openGLRequireES32: 0
-  m_TemplateCustomTags: {}
+  m_TemplateCustomTags:
+    CODE_WASM_UNITYWEB: 
+    DATA_UNITYWEB: 
+    FRAMEWORK_JS_UNITYWEB: 
+    LOADER_JS: 
   mobileMTRendering:
     Android: 1
     iPhone: 1
